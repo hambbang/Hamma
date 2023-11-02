@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\자전동\221208\Dama_real\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\자전동\221208\Dama_real\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
